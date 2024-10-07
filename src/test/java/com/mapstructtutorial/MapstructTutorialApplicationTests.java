@@ -39,7 +39,7 @@ class MapstructTutorialApplicationTests {
 	void setUp() {
 
 		Long id = 1L;
-		String name = "소나타11";
+		String name = "소나타";
 		Integer price = 3000;
 		List<String> options = List.of("Bluetooth", "BlackBox", "Aircon");
 		EnumCarColor color = EnumCarColor.White;
